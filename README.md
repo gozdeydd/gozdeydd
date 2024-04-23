@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate Data Science and Analytics professional with a keen interest in AI, spatial data science, and data engineering. Additionally, I've recently completed a Java EE 7 course offered by Oracle. With experience in creating predictive models, conducting data analysis, and engineering data solutions, I thrive on delivering data-driven solutions. Exploring new technologies excites me, and I enjoy applying my expertise to projects that challenge my creativity and analytical skills.
+I'm a passionate Data professional with a keen interest in AI, spatial data science, and data engineering. Additionally, I've recently completed a Java EE 7 course offered by Oracle. With experience in creating predictive models, conducting data analysis, and engineering data solutions, I thrive on delivering data-driven solutions. Exploring new technologies excites me, and I enjoy applying my expertise to projects that challenge my creativity and analytical skills.
 
 
 - 🌱 I'm currently learning **Java, Python, R **.
@@ -11,8 +11,12 @@ I'm a passionate Data Science and Analytics professional with a keen interest in
 
 
 ## 🛠 Technologies and Tools
+Sure, I can add Scala, Azure, and Databricks badges to the list:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF6C16?style=flat-square&logo=Databricks&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -24,6 +28,9 @@ I'm a passionate Data Science and Analytics professional with a keen interest in
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+
+
+These badges represent Scala, Azure, and Databricks respectively.
 
 
 ## 📊 My Interests
