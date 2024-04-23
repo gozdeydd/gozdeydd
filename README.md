@@ -5,7 +5,7 @@
 I'm a passionate Data professional with a keen interest in AI, spatial data science, and data engineering. Additionally, I've recently completed a Java EE 7 course offered by Oracle. With experience in creating predictive models, conducting data analysis, and engineering data solutions, I thrive on delivering data-driven solutions. Exploring new technologies excites me, and I enjoy applying my expertise to projects that challenge my creativity and analytical skills.
 
 
-- 🌱 I'm currently learning **Java, Python, R **.
+- 🌱 I'm currently learning **Scala, Java, Python, Azure **.
 - 💡 Interested in **Object Oriented Programing, Artificial Intelligence, Data Engineering, Machine Learning**.
 - 📫 You can reach me at: gozdeyzgngl@gmail.com
 
@@ -35,6 +35,7 @@ These badges represent Scala, Azure, and Databricks respectively.
 
 ## 📊 My Interests
 
+- **Data Modeling**: I specialize in designing and implementing efficient and scalable data models.
 - **Machine Learning**: I am fascinated by developing models that learn and improve over time.
 - **Data Analysis**: I enjoy uncovering insights and patterns in complex datasets.
 - **Cloud AI**: Experimenting with cloud services to deploy and scale AI solutions.
@@ -42,6 +43,8 @@ These badges represent Scala, Azure, and Databricks respectively.
 - **Java EE 7**: Recently completed a course by Oracle to expand my knowledge in Java EE 7.
 - **Java, JavaScript, HTML, CSS**: Proficient in these languages and enjoy working with them to develop web applications.
 - **PowerBI and Tableau**: Skilled in data visualization tools such as PowerBI and Tableau for creating interactive and insightful visualizations.
+- **Python**: Proficient in Python programming language.
+- **Scala**: Proficient in Scala programming language.
 
 ## 🤝 Connect With Me
 
